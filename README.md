@@ -16,13 +16,13 @@ Handling Missing Values: Devised strategies to manage missing data without compr
 **Exploratory Data Analysis (EDA):**
 
 
-**Data Visualization: **Utilized various plots and charts to visualize trends and patterns in the data.
+**Data Visualization:** Utilized various plots and charts to visualize trends and patterns in the data.
 
-**Statistical Analysis: **Performed statistical tests to understand the relationships between different variables.
+**Statistical Analysis:** Performed statistical tests to understand the relationships between different variables.
 
 **Model Building and Evaluation:**
 
-**Algorithm Selection: **Experimented with various regression models to find the most effective one for this dataset.
+**Algorithm Selection:** Experimented with various regression models to find the most effective one for this dataset.
 
 **Hyperparameter Tuning:** Employed techniques like grid search to optimize the model's performance.
 
