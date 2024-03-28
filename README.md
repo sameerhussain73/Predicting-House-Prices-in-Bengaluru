@@ -23,9 +23,13 @@ Data Preprocessing:**
 The final model demonstrates a robust capability to predict house prices in Bengaluru with a significant accuracy level, providing insights into the factors most affecting property values in the region.
 
 **Tools and Technologies**
-**Python:** Primary programming language used.\n
+
+**Python:** Primary programming language used.
+
 **Pandas & NumPy:** For data manipulation and numerical computation.
+
 **Matplotlib & Seaborn:** For creating insightful data visualizations.
+
 **Scikit-learn:** For model building and evaluation.
 
 **Usage**
