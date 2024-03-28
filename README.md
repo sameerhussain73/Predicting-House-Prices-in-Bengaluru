@@ -6,8 +6,8 @@ This repository hosts a machine learning project aimed at predicting house price
 **Dataset:** 
 The dataset includes a comprehensive range of features such as locality, area, number of bedrooms, and other relevant attributes. Each record in the dataset corresponds to a unique property listing in Bengaluru.
 
-**Approach
-Data Preprocessing:**
+**Approach**
+**Data Preprocessing:**
 
 Feature Engineering: Developed new features that could potentially aid in better price prediction.
 
