@@ -9,9 +9,9 @@ The dataset includes a comprehensive range of features such as locality, area, n
 **Approach
 Data Preprocessing:**
 
-**Feature Engineering:** Developed new features that could potentially aid in better price prediction.
+Feature Engineering: Developed new features that could potentially aid in better price prediction.
 
-**Handling Missing Values:** Devised strategies to manage missing data without compromising the dataset's integrity.
+Handling Missing Values: Devised strategies to manage missing data without compromising the dataset's integrity.
 
 **Exploratory Data Analysis (EDA):**
 
